@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.zorphia.dragonlove"
+        versionCode = "10" 
+        version     = "0.1.0" >
+<gap:platform name="android" />
+<preference name="phonegap-version" value="3.1.0" /
+    <name>DragonLove</name>
+    <description>
+        I will put a description here later. 
+    </description>
+
+    <author href="http://dragonlove.jimdo.com" email="1st.zorphs@gmail.com">
+        Emma Markquart
+    </author>
+<access origin="http://dragonlove.jimdo.com" subdomains="true" />
+</widget>
